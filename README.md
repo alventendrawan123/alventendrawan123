@@ -4,7 +4,7 @@
 
 `Baliola` · `BCC UKDW` · `Smart Contracts` · `Web3`
 
-> "From a campus lab to the hackathon stage — I build the hard, invisible layers of Web3: the smart contracts, SDKs, and backends that make decentralized apps something people can actually trust and use."
+> "I build the hard, invisible layers of Web3: the smart contracts, SDKs, and backends that make decentralized apps something people can actually trust and use."
 
 ---
 
