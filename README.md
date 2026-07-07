@@ -32,6 +32,8 @@
 **Links:** [Repo](https://github.com/0xpochita/monzupay) · [Live Demo](https://monzupay.vercel.app)
 
 ### Redelegator Finance · Autonomous DeFi Delegation
+> *Built at the MetaMask Smart Accounts Kit × 1Shot API × Venice AI Dev Cook-Off*
+
 **Business case:** Autonomous DeFi bots usually demand blanket token approvals — one compromise drains the whole wallet. Redelegator grants a single scoped permission that's redelegated down a chain of AI agents, each with cryptographically enforced, ever-narrowing spending caps.
 **Technical edge:** I built the delegation backend & SDK on MetaMask Smart Accounts (ERC-7715/7710, EIP-7702) — narrowing redelegation, gasless redemption via a 1Shot relayer, and a one-call kill-switch, all zero-custody. Tested end-to-end on Base mainnet.
 **Links:** [Repo](https://github.com/0xpochita/redelegator-finance)
@@ -40,11 +42,11 @@
 
 ## 🛠 Technical Toolbox
 
-**Blockchain:** Solidity (Foundry, Hardhat), Cadence (Flow), account abstraction (ERC-7715/7710, EIP-7702), smart-contract security (CEI, OpenZeppelin).
-**Backend:** Node.js, TypeScript, REST & WebSocket APIs, Hono, Supabase.
-**Frontend:** Next.js, React, TypeScript, Tailwind CSS.
-**Chains:** Ethereum/EVM, Solana, Somnia, Base, Initia, Flow.
-**Expertise:** Smart-contract development, SDK integration, zero-knowledge privacy integration, autonomous agents & DeFi.
+- **Blockchain:** Solidity (Foundry, Hardhat), Cadence (Flow), account abstraction (ERC-7715/7710, EIP-7702), smart-contract security (CEI, OpenZeppelin)
+- **Backend:** Node.js, TypeScript, REST & WebSocket APIs, Hono, Supabase
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- **Chains:** Ethereum/EVM, Solana, Somnia, Base, Initia, Flow
+- **Expertise:** Smart-contract development, SDK integration, zero-knowledge privacy integration, autonomous agents & DeFi
 
 ---
 
@@ -61,8 +63,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alventendrawan123&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alventendrawan123&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alventendrawan123&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alventendrawan123&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
 </p>
 
 ---
