@@ -2,7 +2,7 @@
 
 **Smart Contract & SDK Engineer** | Fullstack Developer Intern @ Baliola | Building cross-chain dApps
 
-`Web3` · `Smart Contracts` · `Baliola` · `BCC UKDW`
+`Web3` · `Smart Contracts` · `Somnia` · `Cloak|Frontiers`· `Baliola` · `BCC UKDW`
 
 > "I build the hard, invisible layers of Web3: the smart contracts, SDKs, and backends that make decentralized apps something people can actually trust and use."
 
