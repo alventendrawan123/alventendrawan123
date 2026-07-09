@@ -50,6 +50,12 @@
 
 ---
 
+## 🥇 Achievments
+
+**Selected recognition:** 🥇 Top 1 of Top 10, Somnia Reactivity Hackathon (SomMemo) · 🏅 5th place, Frontiers Hackathon 2026, Track Cloak (Tirai).
+
+---
+
 ## 🏛️ Community & Leadership
 
 🧑‍💼 **BEM FTI UKDW** — Coordinator of Human Resource Development (PSDM), across two terms.
@@ -57,8 +63,6 @@
 🎓 **UKDW Blockchain Community Club (BCC)** — Event Organizer. A student-led Web3 club that learns, builds, and ships onchain.
 
 📋 **FTI PLUS** — Steering Committee (2025 & 2026).
-
-**Selected recognition:** 🥇 Top 1 of Top 10, Somnia Reactivity Hackathon (SomMemo) · 🏅 5th place, Frontiers Hackathon 2026, Track Cloak (Tirai).
 
 ---
 
@@ -74,7 +78,9 @@
 ## 📫 Let's Connect
 
 💼 **LinkedIn:** [Alven Tendrawan](https://www.linkedin.com/in/alven-tendrawan-4645a1269)
+
 📷 **Instagram:** [@alventendrawan](https://instagram.com/alventendrawan)
+
 📧 **Email:** alvenalven367@gmail.com
 
 > "Making Web3 invisible — so the technology fades into the background and the experience is all that's left."
