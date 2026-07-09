@@ -52,8 +52,10 @@
 
 ## 🏛️ Community & Leadership
 
-🎓 **UKDW Blockchain Community Club (BCC)** — Event Organizer. A student-led Web3 club that learns, builds, and ships onchain.
 🧑‍💼 **BEM FTI UKDW** — Coordinator of Human Resource Development (PSDM), across two terms.
+
+🎓 **UKDW Blockchain Community Club (BCC)** — Event Organizer. A student-led Web3 club that learns, builds, and ships onchain.
+
 📋 **FTI PLUS** — Steering Committee (2025 & 2026).
 
 **Selected recognition:** 🥇 Top 1 of Top 10, Somnia Reactivity Hackathon (SomMemo) · 🏅 5th place, Frontiers Hackathon 2026, Track Cloak (Tirai).
