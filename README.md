@@ -58,7 +58,7 @@
 
 ## 🏛️ Community & Leadership
 
-🧑‍💼 **BEM FTI UKDW** — Coordinator of Human Resource Development (PSDM), across two terms.
+🧑‍💼 **BEM FTI UKDW** — Coordinator of Human Resource Development (PSDM), across two terms(2025/2026 & 2026/2027)
 
 🎓 **UKDW Blockchain Community Club (BCC)** — Event Organizer. A student-led Web3 club that learns, builds, and ships onchain.
 
